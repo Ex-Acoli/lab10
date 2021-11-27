@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Acoli\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Acoli\\.nuget\\packages",
+      "A:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+    ]
+  }
+}
